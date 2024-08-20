@@ -1,0 +1,46 @@
+CREATE DATABASE escola;
+USE escola
+
+CREATE TABLE aluno (
+matricula VARCHAR(30) PRIMARY KEY,
+nome VARCHAR(64),
+data_nascimento DATE
+);
+
+CREATE TABLE turma (
+id_turma INT PRIMARY KEY,
+nome_turma VARCHAR(1),
+turno VARCHAR(1)
+);
+
+CREATE TABLE professor (
+id_prof INT PRIMARY KEY,
+nome_prof VARCHAR(64),
+data_nacimento_prpf DATE
+);
+
+CREATE TABLE disciplina (
+id_disciplina INT,
+nome_disciplina VARCHAR (64),
+turno VARCHAR(1)
+);
+
+INSERT INTO aluno VALUES 
+("1", "Yukimi", "1990-03-17"),
+("2", "Éden", "1990-17-07"),
+("3", "Eric", "1990-08-15"),
+("4", "Thiago", "1990-02-23"),
+("5", "Rafaa", "1990-08-12"),
+("6", "Dennis", "1990-04-09"),
+("7", "Roger", "1990-04-22"),
+("8", "Saulo", "1990-13-03"),
+("9", "Felipe", "1990-10-07"),
+("10", "Skipp", "1990-02-01"),
+("11", "Chris", "1990-05-09"),
+("12", "Laila", "1990-10-27"),
+("13", "Victor", "1997-05-03"),
+("14", "Paulo", ""),
+("15", "Lala", ""),
+("16", "Robinson", "1990-08-28")
+
+ALTER TABLE aluno DROP COLUMN data_nascimento;
