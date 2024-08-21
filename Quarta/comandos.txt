@@ -1,0 +1,32 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("/content/dados.csv")
+
+# visualizar primeiras linhas
+df.head(3)
+
+df.shape
+
+#tipos de fados
+df.dtypes()
+df.isnull()
+df.describe()
+
+idade_media = df['Idade'].mean()
+round(idade_media, 2)
+
+# Matplotlib
+# Gráfico de Idade por Nome
+plt.bar(df['Nome'], df['Idade'])
+plt.xticks(rotation=90)
+
+# contagem de aluno por curso
+df2 = df.groupby("Curso")[['Nome']].count()
+df2
+
+df3 = df.groupby("Curso")[['Idade']].mean()
+df3
+
+#Gráfico do df2
+df2.plot(kind = 'bar')
