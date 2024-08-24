@@ -1,0 +1,19 @@
+Conclusões/Insights com base no Dashboard
+
+-Número de Casos por Mês
+Os casos são maiores nos primeiros meses do ano bem como nos últimos, enquanto há uma pequena queda no meio do ano. Isso pode ser devido ao fato que em tempos de festas (Natal, Ano Novo, confraternizações de final de ano) as vítimas possam enfrentar problemas como solidão ou situações desconfortáveis com familiares.
+
+-Nº de Casos por Ano
+Os números apenas crescem durante o período, com cada ano sendo maior que outro. Possíveis causas sejam a crise econômica que se intensificou no país durante o período, o que levou ao aumento de desemprego e dificuldade de empreendedorismo.
+
+-Percentual por Gênero
+O número de casos de suicídios por homens é expressivamente maior do que por mulheres. Possíveis causas são o fato de que a cultura não costuma ser favorável quando homens expressam sentimentos de dor, angústia, tristeza e forçam um ideal masculino estoico. Homens não se sentem capazes de expressar sentimentos negativos nem buscam ajuda com medo do julgamento social, levando a se refugiarem em coisas como drogas e reprimirem os sentimentos até não conseguir mais.
+
+-Número de Casos por Estado
+Os dados do gráfico demonstram que os estados de São Paulo e de Minas Gerais são expressivamente maiores que dos demais estados. Mas é importante lembrar que, uma vez que são os dois estados mais populosos, o número de casos será maior nesses estados que em outros.
+
+-Percentual Por Tempo de Escolaridade
+Quase 75% dos casos tiverem nenhuma, 8 a 11 anos ou 4 a 7 anos. Os maiores casos estão nos dois extremos: aqueles que não tiveram acesso, que por consequência tiveram condições de trabalho e financeiras mais precárias; e os que mais tiveram. Nesse último, é possível que os que tiveram mais tempo de escolaridade passaram por situações financeiras difíceis durante o período, apesar de suas qualificações.
+
+-Total de casos por idade
+A maior parte dos casos se concentra no intervalo entre 35 aos 75 anos, sendo o pico nos 50 anos. É importante lembrar que a medida que a idade se aproxima da expectativa de vida média, o número da população diminui, logo, o número de casos também diminuirá. 
